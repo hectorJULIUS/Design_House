@@ -1,0 +1,204 @@
+.logo-part{
+    display: flex;
+    flex-direction: row;
+
+}
+nav{
+    background-color:  #39720E;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+nav a{
+    font-size: 20px;
+
+}
+nav li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.icon{
+    color: white;
+}
+.yeh{
+    position: fixed;
+    width: 1440px;
+    height: 655px;
+    left: 0px;
+    top: 113px;
+
+}
+.yes{
+    background-color:#39720E ;
+    color: white;
+    position: absolute;
+    width: 463px;
+    height: 270px;
+    left: 153px;
+    top: 296px;
+
+}
+.btn-1{
+    border: 0;
+    border-radius: 24px;
+    background-color: white;
+    color:#39720E ;
+    height: 50px;
+    width: 200px;
+}
+
+.hhh{
+    padding-top: 100px;
+    margin-top: 100px!important;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 87px;
+
+
+    color: #39720E;
+}
+.new{
+    background-color: rgba(238, 238, 238, 0.46);;
+}
+.img{
+    margin-top: 100px;
+    width: 524px;
+    height: 498px;
+    left: 116px;
+    top: 908px;
+}
+.btnn{
+    border-radius: 24px;
+    background-color:#39720E;
+    color:white ;
+    border: 0px;
+    align-items: right;
+    height: 50px;
+    width: 300px;
+    align-items: right;
+}
+.grey{
+    background-color: rgb(233, 230, 230);
+    padding-bottom: 100px;
+}
+
+.woh i{
+    margin-top: 10px;
+    color:yellowgreen;
+    font-size: 18px;
+}
+.woh1 i{
+    margin-top: 10px;
+    color:yellowgreen;
+    font-size: 18px;
+}
+.woh{
+    height: 380px;
+    box-shadow: 0px 4px 14px 4px rgba(0, 0, 0, 0.25);
+    border: 0;
+    font-size: 20px;
+    width: 404px;
+
+}
+.shh{
+    height: 380px;
+    background-color: #F3F3F3;
+    border-radius: 0;
+    box-shadow: 0px 4px 14px 4px rgba(0, 0, 0, 0.25);
+   
+
+}
+.last{
+    background-color:#39720E ;
+}
+.pop{
+    color: white;
+    font-size: 20px;
+}
+.lead{
+    width: 33px;
+height: 24px;
+left: 140px;
+top: 3038px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+/* identical to box height, or 24px */
+}
+.potter{
+width: 33px;
+height: 24px;
+left: 140px;
+top: 3038px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+/* identical to box height, or 24px */
+}
+.hr{
+    width: 33px;
+height: 24px;
+left: 140px;
+top: 3038px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 200%;
+/* identical to box height, or 24px */
+}
+.ema{
+    width: 59px;
+height: 48px;
+left: 526px;
+top: 3048px;
+
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 200%;
+/* identical to box height, or 48px */
+
+
+}
+.list{
+    display: inline;
+    float: right;
+    font-size: 30px;
+}
+.home{
+    font-size: 50px;
+}
+.btn{
+    border-radius: 24px;
+    background-color:#39720E;
+    color:white ;
+    border: 0px;
+}
+.lead-2{
+    text-align: right;
+    margin-top: 0px;
+}
+.top{
+    padding-top: 100px;
+}
+.shh1{
+    height: 380px;
+    background-color: #F3F3F3;
+    border-radius: 0;
+    box-shadow: 0px 4px 14px 4px rgba(0, 0, 0, 0.25);
+    width: 700px;
+}
+.woh1{
+    height: 380px;
+    box-shadow: 0px 4px 14px 4px rgba(0, 0, 0, 0.25);
+    border: 0;
+    font-size: 20px;
+    width: 355px;
+}
